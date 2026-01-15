@@ -9,7 +9,7 @@ Analyze the provided email headers to determine whether the email was legitimate
 - MXToolbox (Reverse DNS Lookup)
 - WHOIS Lookup (Domain Name Lookup)
 
-**Summary:**  s
+**Summary:** 
 The email headers were reviewed to trace the delivery path,check sender authenticity and validate authentication results.
 Analysis included examining Received headers, Message-ID, and SPF/DKIM/ARC results using the Outlook email client. All headers
 showed no relations to a malicious infrastructure, and no anomalies were observed. Based on the header analysis, the email was determined to be legitimate
